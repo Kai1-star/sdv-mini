@@ -1,0 +1,8 @@
+# Rust 编译输出
+/target/
+
+# macOS
+.DS_Store
+
+# 本机专用设置（不上传）
+.claude/settings.local.json
